@@ -10,14 +10,15 @@
 <?import AddressBook.Student?>
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.control.TextField?>
+
 <GridPane alignment="CENTER" hgap="10.0" vgap="10.0"
           fx:controller="AddressBook.TableViewController"
           xmlns:fx="http://javafx.com/fxml">
     <padding>
-        <Insets bottom="11.0" left="12.0" right="13.0" top="14.0"/>
+        <Insets bottom="15.0" left="15.0" right="15.0" top="15.0"/>
     </padding>
 
-    <Label text="Address Book" GridPane.rowIndex="0" GridPane.columnIndex="1">
+    <Label text="Address Book" style="-fx-font: NORMAL 30 Verdana;" GridPane.rowIndex="0" GridPane.columnIndex="0">
     </Label>
 
     <TableView fx:id="tableView" GridPane.columnIndex="0"
@@ -52,6 +53,7 @@
             </FXCollections>
         </items>
 
+        // TODO: Upravte tento sort order tak, aby sa tabulka zoradila podla priezviska
         <sortOrder>
             <fx:reference source="firstNameColumn"/>
         </sortOrder>

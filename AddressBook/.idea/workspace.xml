@@ -90,7 +90,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="/opt/javafx-sdk-14/lib" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -205,26 +205,30 @@
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
     <state x="2386" y="1274" width="735" height="520" key="FileChooserDialogImpl/72.27.3768.2133@72.27.3768.2133" timestamp="1585152718074" />
-    <state width="1528" height="182" key="GridCell.Tab.0.bottom" timestamp="1585155244439">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1528" height="182" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244439" />
-    <state width="1528" height="182" key="GridCell.Tab.0.center" timestamp="1585155244438">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1528" height="182" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244438" />
-    <state width="1528" height="182" key="GridCell.Tab.0.left" timestamp="1585155244438">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1528" height="182" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244438" />
-    <state width="1528" height="182" key="GridCell.Tab.0.right" timestamp="1585155244439">
-      <screen x="72" y="27" width="1848" height="1053" />
-    </state>
-    <state width="1528" height="182" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244439" />
-    <state x="2247" y="1105" width="1024" height="852" key="SettingsEditor" timestamp="1585152731660">
+    <state width="2511" height="229" key="GridCell.Tab.0.bottom" timestamp="1585306703487">
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
-    <state x="2247" y="1105" width="1024" height="852" key="SettingsEditor/72.27.3768.2133@72.27.3768.2133" timestamp="1585152731660" />
+    <state width="1528" height="182" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244439" />
+    <state width="2511" height="229" key="GridCell.Tab.0.bottom/72.27.3768.2133@72.27.3768.2133" timestamp="1585306703487" />
+    <state width="2511" height="229" key="GridCell.Tab.0.center" timestamp="1585306703487">
+      <screen x="72" y="27" width="3768" height="2133" />
+    </state>
+    <state width="1528" height="182" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244438" />
+    <state width="2511" height="229" key="GridCell.Tab.0.center/72.27.3768.2133@72.27.3768.2133" timestamp="1585306703487" />
+    <state width="2511" height="229" key="GridCell.Tab.0.left" timestamp="1585306703486">
+      <screen x="72" y="27" width="3768" height="2133" />
+    </state>
+    <state width="1528" height="182" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244438" />
+    <state width="2511" height="229" key="GridCell.Tab.0.left/72.27.3768.2133@72.27.3768.2133" timestamp="1585306703486" />
+    <state width="2511" height="229" key="GridCell.Tab.0.right" timestamp="1585306703487">
+      <screen x="72" y="27" width="3768" height="2133" />
+    </state>
+    <state width="1528" height="182" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1585155244439" />
+    <state width="2511" height="229" key="GridCell.Tab.0.right/72.27.3768.2133@72.27.3768.2133" timestamp="1585306703487" />
+    <state x="2247" y="1105" width="1024" height="852" key="SettingsEditor" timestamp="1585305250113">
+      <screen x="72" y="27" width="3768" height="2133" />
+    </state>
+    <state x="2247" y="1105" width="1024" height="852" key="SettingsEditor/72.27.3768.2133@72.27.3768.2133" timestamp="1585305250113" />
     <state x="2427" y="1180" width="672" height="678" key="search.everywhere.popup" timestamp="1585152951987">
       <screen x="72" y="27" width="3768" height="2133" />
     </state>
